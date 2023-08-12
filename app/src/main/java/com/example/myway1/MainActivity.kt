@@ -159,7 +159,7 @@ fun MyComposable(
 
     Button(onClick = {
 
-        val intent = Intent(context, StartActivity::class.java)
+        val intent = Intent(context, MainStartActivity::class.java)
 
         context.startActivity(intent)
 
