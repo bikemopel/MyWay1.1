@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyWay1</string>
     <string name="title_activity_main_start">MainStartActivity</string>
+    <string name="ansprache">Hallo Erfolg </string>
+    <string name="frage1">Was ist heute Wichtig</string>
+    <string name="frage2">Frage des Tages</string>
 </resources>
